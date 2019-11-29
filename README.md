@@ -7,3 +7,4 @@
 - HTML5/CSS3
 - Bootstrap e Responsividade
 - Sass (Pré-processador CSS)
+- FontAwesome
